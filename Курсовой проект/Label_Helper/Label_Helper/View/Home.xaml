@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="Label_Helper.View.Home"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:vm="clr-namespace:Label_Helper.View"
+             mc:Ignorable="d"
+             d:DesignHeight="550"
+             d:DesignWidth="622"
+             Style="{StaticResource Page_Style}">
+
+    <Grid Margin="0,-34,0,34">
+
+        <Border CornerRadius="0,20,20,0" Margin="0,0,0,-34">
+            <Border CornerRadius="0,20,20,0">
+                <Border Background="#66008E"
+                CornerRadius="0,20,20,0" Height="600" VerticalAlignment="Top" />
+            </Border>
+        </Border>
+
+        <TextBlock HorizontalAlignment="Left" FontSize="36" Margin="52,93,0,413" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Добро пожаловать"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="36" Margin="52,137,0,379" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="в Label Helper!"/>
+        <TextBlock FontSize="20" Margin="52,200,131,-37" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="Inter" TextWrapping="Wrap" ><Run Text="🎶 Учет Артистов:"/><LineBreak/><Run Text="Подробные записи об артистах, релизах, продажах и потоках.   "/><LineBreak/><Run Text="                                                                                                                                                                                                             📊 Аналитика и Отчетность:                                                                                                                                                                                                                Наглядные отчеты о популярности треков и доходности для взвешенных решений.    "/><LineBreak/><Run Text="                                                                                                                                                                                                            🔐 Безопасность и Конфиденциальность:                                                                                                                                                                                                               Высший уровень защиты для ваших данных и конфиденциальности.   "/><LineBreak/><Run Text="                                                                                                                                                                                                             🚀 Легкость в использовании:                                                                                                                                                                                                                Интуитивный интерфейс для опытных менеджеров и новичков в музыкальной индустрии."/></TextBlock>
+        <Grid/>
+    </Grid>
+</UserControl>

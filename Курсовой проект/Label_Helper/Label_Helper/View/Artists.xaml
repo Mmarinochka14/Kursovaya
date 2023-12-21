@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="Label_Helper.View.Artists"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:Label_Helper.ViewModel"
+             mc:Ignorable="d"
+             d:DesignHeight="550"
+             d:DesignWidth="622"
+             Style="{StaticResource Page_Style}">
+
+    <!-- Установка контекста данных -->
+    <UserControl.DataContext>
+        <vm:ArtistVM />
+    </UserControl.DataContext>
+
+    <Grid Margin="0,-34,0,34">
+
+        <Border CornerRadius="0,20,20,0">
+            <Border CornerRadius="0,20,20,0">
+                <Border Background="#66008E"
+                CornerRadius="0,20,20,0" Margin="0,-10,0,-32" />
+            </Border>
+        </Border>
+        <TextBlock HorizontalAlignment="Left" FontSize="36" Margin="51,94,0,406" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Артисты"/>
+
+        <!-- Разметка для ввода данных и списка артистов -->
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="371">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="72*"/>
+                <ColumnDefinition Width="299*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Поля ввода данных об артисте -->
+            <TextBox x:Name="NicknameTextBox" Background="#9303CC" Foreground="White" Margin="10,-81,171,141" Height="40" Grid.ColumnSpan="2"/>
+            <Label Margin="-78,-78,62,144" FontSize="18" Foreground="White">Никнейм</Label>
+            <TextBox x:Name="NameTextBox" Background="#9303CC" Foreground="White" TextWrapping="Wrap" Margin="202,-81,-103,141" Width="200" Height="40" Grid.Column="1" />
+            <Label Margin="145,-80,102,142" Foreground="White" FontSize="18" Grid.Column="1">Имя</Label>
+            <TextBox x:Name="AgeTextBox" Background="#9303CC" Foreground="White" Margin="10,-24,171,84" Height="40" Grid.ColumnSpan="2" />
+            <Label Margin="-78,-23,67,86" Foreground="White" FontSize="18">Возраст</Label>
+            <TextBox x:Name="CityTextBox" Background="#9303CC" Foreground="White" Margin="202,-24,-103,84" Width="200" Height="40" Grid.Column="1"/>
+            <Label Margin="138,-22,102,86" Foreground="White" FontSize="18" Grid.Column="1">Город</Label>
+            <TextBox x:Name="BioTextBox" TextDecorations="Baseline" Foreground="White" Background="#9303CC" Margin="58,36,-103,-10" Grid.ColumnSpan="2"/>
+            <Label Margin="-78,55,19,-3" Foreground="White" FontSize="18">Биография</Label>
+
+            <!-- Список артистов -->
+            <ListView x:Name="ArtistListView" Foreground="White" Background="#9303CC" Margin="-78,240,-103,-252" RenderTransformOrigin="0.494,0.572" Grid.ColumnSpan="2">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Никнейм" DisplayMemberBinding="{Binding Nickname}"/>
+                        <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="Возраст" DisplayMemberBinding="{Binding Age}"/>
+                        <GridViewColumn Header="Город" DisplayMemberBinding="{Binding City}"/>
+                        <GridViewColumn Header="Биография" DisplayMemberBinding="{Binding Biography}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <!-- Кнопки управления артистами -->
+            <Button Content="Добавить артиста" Foreground="White" Background="#9303CC" Height="40" Click="AddArtist_Click"  Margin="-7,125,0,-73" HorizontalAlignment="Left" Width="200" Grid.ColumnSpan="2"/>
+            <Button Content="Редактировать" Foreground="White" Background="#9303CC" Click="EditArtist_Click" Height="40" Margin="-7,179,178,-127" Grid.ColumnSpan="2"/>
+            <Button Content="Удалить артиста" Foreground="White" Background="#9303CC" Click="DeleteArtist_Click" Margin="138,125,-38,-73" Height="40" Grid.Column="1"/>
+            <Button Content="Сохранить изменения" Foreground="White" Background="#9303CC" Click="SaveChanges_Click" Margin="138,179,-38,-127" Height="40" Grid.Column="1" RenderTransformOrigin="0.505,1.339"/>
+        </Grid>
+    </Grid>
+</UserControl>

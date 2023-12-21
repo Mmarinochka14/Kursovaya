@@ -1,0 +1,65 @@
+﻿<UserControl x:Class="Label_Helper.View.AboutLabels"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:vm="clr-namespace:Label_Helper.ViewModel"
+             mc:Ignorable="d"
+             d:DesignHeight="550"
+             d:DesignWidth="622"
+             Style="{StaticResource Page_Style}">
+
+    <!-- Установка контекста данных для этого UserControl -->
+    <UserControl.DataContext>
+        <vm:AboutLabelVM />
+    </UserControl.DataContext>
+
+    <!-- Основной контейнер Grid с отступами сверху и снизу -->
+    <Grid Margin="0,-34,0,34">
+
+        <!-- Внешняя граница с закругленными углами -->
+        <Border CornerRadius="0,20,20,0">
+            <!-- Вложенная граница с закругленными углами -->
+            <Border CornerRadius="0,20,20,0">
+                <!-- Фон для создания полосы слева в приложении -->
+                <Border Background="#66008E" CornerRadius="0,20,20,0" Margin="0,-10,0,-42" />
+            </Border>
+        </Border>
+
+        <!-- Заголовок "О лейбле" -->
+        <TextBlock HorizontalAlignment="Left" FontSize="36" Margin="52,93,0,408" FontWeight="Normal"
+                   TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="О лейбле"/>
+
+        <!-- Подзаголовок "Миссия Лейбла" -->
+        <TextBlock HorizontalAlignment="Left" FontSize="24" Margin="52,147,0,374" FontWeight="Normal"
+                   TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Миссия Лейбла "/>
+
+        <!-- Подзаголовок "История" -->
+        <TextBlock HorizontalAlignment="Left" FontSize="24" Margin="52,275,0,250" FontWeight="Normal"
+                   TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="История"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="20" Margin="52,309,0,160"
+                   FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="515">
+            <Run Text="Основанный в 2000 году, наш лейбл с самого начала стремился к созданию уникального звучания и поддержке независимых артистов."/>
+            <LineBreak/>
+            <Run/>
+        </TextBlock>
+
+        <!-- Подзаголовок "Команда" -->
+        <TextBlock HorizontalAlignment="Left" FontSize="24" Margin="52,410,0,112" FontWeight="Normal"
+                   TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Команда"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="20" Margin="52,181,0,285"
+                   FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="515">
+            <Run Text="Мы стремимся к поддержке и развитию талантливых артистов, предоставляя платформу для творчества и инноваций в музыкальной индустрии."/>
+            <LineBreak/>
+            <Run/>
+        </TextBlock>
+
+        <!-- Кнопки команды с цветом фона и выравниванием -->
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="101" Margin="55,449,0,0"
+                VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="101" Margin="181,449,0,0"
+                VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="101" Margin="314,449,0,0"
+                VerticalAlignment="Top" Width="104"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Artists.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AboutLabels.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Albums.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Settings.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Helps.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Ratings.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Image.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Text.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Utilities\DataTemplate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Artists.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AboutLabels.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Albums.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Settings.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Helps.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Ratings.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

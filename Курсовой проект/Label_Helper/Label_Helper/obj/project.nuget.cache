@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M83C1EcuPm+IhNtbh0Mbp1om6aCLkprtrYjrzBKMJjINESmiqHHYTAyffw9dArx1bmsCxLx8qSy6LFum3O1IhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Курсовой проект\\Label_Helper\\Label_Helper\\Label_Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

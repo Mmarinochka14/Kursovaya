@@ -1,0 +1,90 @@
+﻿<UserControl x:Class="Label_Helper.View.Settings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:vm="clr-namespace:Label_Helper.ViewModel"
+             mc:Ignorable="d"
+             d:DesignHeight="550"
+             d:DesignWidth="622"
+             Style="{StaticResource Page_Style}">
+
+    <UserControl.DataContext>
+        <vm:SettingVM />
+    </UserControl.DataContext>
+
+    <Grid Margin="0,-34,0,34">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="439*"/>
+            <RowDefinition Height="111*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+
+        <Border CornerRadius="0,20,20,0" Grid.RowSpan="2">
+            <Border CornerRadius="0,20,20,0">
+                <Border Background="#66008E"
+                CornerRadius="0,20,20,0" Margin="0,-10,0,-42" />
+            </Border>
+        </Border>
+
+        <TextBlock HorizontalAlignment="Left" FontSize="36" Margin="52,93,0,297" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles">
+            <Run Language="ru-ru" Text="Настройки"/>
+        </TextBlock>
+
+        <TextBlock HorizontalAlignment="Left" FontSize="24" Margin="54,147,0,263" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Учетная запись "/>
+        <TextBlock HorizontalAlignment="Left" FontSize="24" Margin="55,330,0,84" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Уведомления"/>
+
+        <StackPanel HorizontalAlignment="Left" Margin="53,364,0,51" Orientation="Horizontal">
+            <Image x:Name="___Images_on_png_Copy8" Source="/Images/on.png" HorizontalAlignment="Left" Height="20" Width="58" />
+            <TextBlock TextWrapping="Wrap" FontSize="20" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="221" Height="24">
+                <Run Language="ru-ru" Text="Ночной режим"/>
+            </TextBlock>
+        </StackPanel>
+
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="20" Margin="0,181,0,186" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="514">
+            <Run Text="Имя пользователя: [ИванПетров]"/>
+            <LineBreak/>
+            <Run Text="Эл. почта: [ivan.petrov@example.com]"/>
+            <LineBreak/>
+            <Run Text="Пароль: [**********]"/>
+            <LineBreak/>
+            <Run/>
+            <LineBreak/>
+            <Run/>
+        </TextBlock>
+
+        <StackPanel HorizontalAlignment="Left" Margin="54,412,0,3" Orientation="Horizontal">
+            <Image x:Name="___Images_on_png_Copy1" Source="/Images/on.png" HorizontalAlignment="Left" Height="20" Width="58" />
+            <TextBlock TextWrapping="Wrap" FontSize="20" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="221" Height="24" Text="Звук уведомлений"/>
+        </StackPanel>
+
+        <Button Content="Сохранить изменения" Foreground="#EEC5FF" FontSize="18" Background="#9303CC" HorizontalAlignment="Left" Height="42" Margin="53,267,0,0" VerticalAlignment="Top" Width="213"/>
+        <Button Content="Выйти" Foreground="#EEC5FF" FontSize="18" Background="#9303CC" HorizontalAlignment="Left" Height="42" Margin="292,267,0,0" VerticalAlignment="Top" Width="113"/>
+
+        <StackPanel HorizontalAlignment="Left" Margin="358,388,0,27" Orientation="Horizontal">
+            <Image x:Name="___Images_on_png_Copy3" Source="/Images/on.png" Height="20" Width="66" />
+            <TextBlock TextWrapping="Wrap" FontSize="20" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="111" RenderTransformOrigin="0.915,0.875" Text="Русский" Height="24"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Left" Margin="358,364,0,51" Orientation="Horizontal">
+            <Image x:Name="___Images_on_png_Copy4" Source="/Images/on.png" Height="20" Width="67" />
+            <TextBlock TextWrapping="Wrap" FontSize="20" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="110" RenderTransformOrigin="0.915,0.875" Text="Английcкий" Height="24"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Left" Margin="53,388,0,27" Orientation="Horizontal">
+            <Image x:Name="___Images_on_png_Copy6" Source="/Images/on.png" HorizontalAlignment="Left" Height="20" Width="58" />
+            <TextBlock TextWrapping="Wrap" FontSize="20" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="221" Height="24">
+                <Run Text="Включить уведомления"/>
+                <LineBreak/>
+                <Run/>
+            </TextBlock>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Left" Margin="54,36,0,51" Orientation="Horizontal" Grid.Row="1">
+            <Image x:Name="___Images_on_png_Copy7" Source="/Images/on.png" HorizontalAlignment="Left" Height="20" Width="58" />
+            <TextBlock TextWrapping="Wrap" FontSize="20" FontWeight="Normal" TextAlignment="Left" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="250" Height="24" Text="Двойная аутентификация"/>
+        </StackPanel>
+        <TextBlock HorizontalAlignment="Left" FontSize="24" Margin="55,2,0,84" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Text="Безопасность" Grid.Row="1"/>
+
+    </Grid>
+</UserControl>

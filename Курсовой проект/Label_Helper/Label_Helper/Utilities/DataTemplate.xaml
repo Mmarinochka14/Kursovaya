@@ -1,0 +1,46 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:Label_Helper.ViewModel"
+                    xmlns:view="clr-namespace:Label_Helper.View">
+
+    <!-- 
+        DataTemplate определяет, как объекты ViewModel (типов HomeVM, ArtistVM, и т.д.) 
+        будут отображаться с использованием соответствующих View (Home, Artists, и т.д.).
+    -->
+
+    <!-- HomeVM -->
+    <DataTemplate DataType="{x:Type vm:HomeVM}">
+        <view:Home />
+    </DataTemplate>
+
+    <!-- ArtistVM -->
+    <DataTemplate DataType="{x:Type vm:ArtistVM}">
+        <view:Artists />
+    </DataTemplate>
+
+    <!-- AlbumVM -->
+    <DataTemplate DataType="{x:Type vm:AlbumVM}">
+        <view:Albums />
+    </DataTemplate>
+
+    <!-- AboutLabelVM -->
+    <DataTemplate DataType="{x:Type vm:AboutLabelVM}">
+        <view:AboutLabels />
+    </DataTemplate>
+
+    <!-- RatingVM -->
+    <DataTemplate DataType="{x:Type vm:RatingVM}">
+        <view:Ratings />
+    </DataTemplate>
+
+    <!-- HelpVM -->
+    <DataTemplate DataType="{x:Type vm:HelpVM}">
+        <view:Helps />
+    </DataTemplate>
+
+    <!-- SettingVM -->
+    <DataTemplate DataType="{x:Type vm:SettingVM}">
+        <view:Settings />
+    </DataTemplate>
+
+</ResourceDictionary>

@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Стиль для TextBlock с именем "Text_Style" -->
+    <Style x:Key="Text_Style" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="/Fonts/#RubikBubbles" />
+        <!-- Устанавливает шрифт -->
+        <Setter Property="VerticalAlignment" Value="Center" />
+        <!-- Выравнивание по вертикали по центру -->
+        <Setter Property="HorizontalAlignment" Value="Left" />
+        <!-- Выравнивание по горизонтали влево -->
+        <Setter Property="Foreground" Value="#EEC5FF" />
+        <!-- Цвет текста -->
+        <Setter Property="FontSize" Value="20" />
+        <!-- Размер шрифта -->
+        <Setter Property="Margin" Value="70,0,0,0" />
+        <!-- Отступы -->
+        <!-- Эффект тени для текста -->
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect Color="#FF000000" Direction="320" ShadowDepth="3" Opacity="0.5"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

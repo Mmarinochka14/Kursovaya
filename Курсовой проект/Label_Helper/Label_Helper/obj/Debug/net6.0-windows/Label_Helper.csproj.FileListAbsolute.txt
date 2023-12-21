@@ -1,0 +1,288 @@
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.exe
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Fonts\RubikBubbles-Regular.ttf
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\albums.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\artists.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\back.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\aboutLabel.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\back1.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\backboll.jpg
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\backboll.svg
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\backk.jpg
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\back_main.svg
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\boll.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\boll.svg
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\bolldown.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\bollup.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\help.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\home.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\left.svg
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\left_main.svg
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\on.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\out.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\rating.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\settings.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\shutdown_def.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\shutdown_mo.png
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.deps.json
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.runtimeconfig.json
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.pdb
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MusicAlbum.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MusicTrack.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AboutLabels.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Albums.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Artists.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Helps.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MusicAlbum.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MusicTrack.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Ratings.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Settings.baml
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.g.resources
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfoInputs.cache
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfo.cs
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.csproj.CoreCompileInputs.cache
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.csproj.CopyComplete
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\refint\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.pdb
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.genruntimeconfig.cache
+C:\Курсовая работа\Курсовой проект\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\ref\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.exe
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Fonts\RubikBubbles-Regular.ttf
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\albums.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\artists.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\back.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\aboutLabel.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\back1.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\backboll.jpg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\backboll.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\backk.jpg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\back_main.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\boll.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\boll.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\bolldown.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\bollup.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\help.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\home.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\left.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\left_main.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\on.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\out.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\rating.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\settings.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\shutdown_def.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Images\shutdown_mo.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.deps.json
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.runtimeconfig.json
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Label_Helper.pdb
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\MusicAlbum.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\MusicTrack.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\App.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\App.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\AboutLabels.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Albums.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Artists.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Helps.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Home.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\MusicAlbum.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\MusicTrack.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Ratings.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\View\Settings.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.g.resources
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfoInputs.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfo.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.csproj.CoreCompileInputs.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.csproj.CopyComplete
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\refint\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.pdb
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\Label_Helper.genruntimeconfig.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Page Navigation App\obj\Debug\net6.0-windows\ref\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.exe
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Fonts\RubikBubbles-Regular.ttf
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\albums.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\artists.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\aboutLabel.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back1.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backboll.jpg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backboll.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backk.jpg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back_main.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\boll.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\boll.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\bolldown.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\bollup.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\help.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\home.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\left.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\left_main.svg
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\on.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\out.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\rating.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\settings.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\shutdown_def.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\shutdown_mo.png
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.deps.json
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.runtimeconfig.json
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.pdb
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\MusicAlbum.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\MusicTrack.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Albums.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\MusicAlbum.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\MusicTrack.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.baml
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.g.resources
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfoInputs.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfo.cs
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.CoreCompileInputs.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.CopyComplete
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\refint\Label_Helper.dll
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.pdb
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.genruntimeconfig.cache
+C:\Курсовая работа\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\ref\Label_Helper.dll
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.exe
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Fonts\RubikBubbles-Regular.ttf
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\albums.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\artists.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\aboutLabel.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back1.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backboll.jpg
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backboll.svg
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\backk.jpg
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\back_main.svg
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\boll.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\boll.svg
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\bolldown.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\bollup.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\help.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\home.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\left.svg
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\left_main.svg
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\on.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\out.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\rating.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\settings.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\shutdown_def.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Images\shutdown_mo.png
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.deps.json
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.runtimeconfig.json
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.dll
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Label_Helper.pdb
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_Content.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.cache
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper_MarkupCompile.lref
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\AboutLabels.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Albums.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Artists.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Helps.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Home.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Ratings.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\View\Settings.baml
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.g.resources
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.AssemblyInfo.cs
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.csproj.CopyComplete
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.dll
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\refint\Label_Helper.dll
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.pdb
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\Label_Helper.genruntimeconfig.cache
+C:\Users\User\Desktop\Курсовой проект\Label_Helper\Label_Helper\obj\Debug\net6.0-windows\ref\Label_Helper.dll

@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="Label_Helper.View.Ratings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:vm="clr-namespace:Label_Helper.ViewModel"
+             mc:Ignorable="d"
+             d:DesignHeight="550"
+             d:DesignWidth="622"
+             Style="{StaticResource Page_Style}">
+
+    <UserControl.DataContext>
+        <vm:RatingVM />
+    </UserControl.DataContext>
+
+    <Grid Margin="0,-34,0,34">
+
+        <Border CornerRadius="0,20,20,0">
+            <Border CornerRadius="0,20,20,0">
+                <Border Background="#66008E"
+                CornerRadius="0,20,20,0" Margin="0,-10,0,10" >
+                </Border>
+            </Border>
+        </Border>
+        <TextBlock HorizontalAlignment="Left" FontSize="36" Margin="52,93,0,408" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles"><Run Language="ru-ru" Text="Рейтинг"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="NoWrap" FontSize="24" Margin="52,183,0,295" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="130"><Run Text="Топ "/><LineBreak/><Run Text="артистов"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="NoWrap" FontSize="24" Margin="52,313,0,169" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="130"><Run Text="Топ "/><LineBreak/><Run Text="треков"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="NoWrap" FontSize="24" Margin="52,442,0,40" FontWeight="Normal" TextAlignment="Center" Foreground="#EEC5FF" FontFamily="RubikBubbles" Width="130"><Run Text="Топ "/><LineBreak/><Run Text="альбомов"/></TextBlock>
+        <Button Background="#9303CC"
+            HorizontalAlignment="Left" Height="104" Margin="210,167,0,0" VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="104" Margin="343,167,0,0" VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="104" Margin="477,167,0,0" VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="104" Margin="210,295,0,0" VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="104" Margin="343,295,0,0" VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="104" Margin="477,295,0,0" VerticalAlignment="Top" Width="104"/>
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="101" Margin="210,425,0,0" VerticalAlignment="Top" Width="104" />
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="101" Margin="343,425,0,0" VerticalAlignment="Top" Width="104" />
+        <Button Background="#9303CC" HorizontalAlignment="Left" Height="101" Margin="477,425,0,0" VerticalAlignment="Top" Width="104" />
+
+    </Grid>
+</UserControl>
